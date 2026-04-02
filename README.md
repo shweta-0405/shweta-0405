@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shweta
 
-<!--
-**shweta-0405/shweta-0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer working on backend systems and intelligent applications.  
+Currently working at Noetic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work On
+- AI-driven applications
+- Backend development and APIs
+- Practical problem-solving systems
+
+---
+
+## Current Focus
+- Strengthening Python fundamentals
+- Writing clean and maintainable code
+- Improving debugging and problem-solving
+
+---
+
+## What You'll Find Here
+- Structured learning journey (Exercism)
+- Practice code and notes
+- Backend and AI mini-projects
+- Experiments with LangChain and related tools
+
+---
+
+## Goal
+To become a strong backend and AI engineer capable of building real-world systems with clarity and confidence.
+
+---
+
+## Approach
+- Consistent daily practice
+- Focus on understanding over shortcuts
+- Building projects step by step
